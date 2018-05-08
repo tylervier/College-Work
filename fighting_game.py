@@ -1,19 +1,3 @@
-###########################################################################
-#                   Final Project – Battle Royale                         #
-#                                                                         #
-#                                                                         #
-#   PROGRAMMED BY    Casey Floyd and Tyler Vier (April 30th, 2016)        #
-#   CLASS            CS301, Spring 2016                                   #
-#   INSTRUCTOR       Dean Zeller                                          #
-#                                                                         #
-#                                                                         #
-#   DESCRIPTION                                                           #
-#   This file contains a player vs player battle simulator in which the   #
-#   players choose between three characters with different attributes     #
-#   in order to try and win the fight                                     #
-#                                                                         #
-###########################################################################
-
 import random
 import time
 
